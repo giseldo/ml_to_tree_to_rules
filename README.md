@@ -1,7 +1,7 @@
 # ml_to_tree_to_rules
 Converter uma árvore de decisão em regras
 
-Utilize a base de dados disponibilizada para treinar um modelo predito do tipo árvore de decisão
+Utilize a base de dados disponibilizada para treinar um modelo preditivo do tipo árvore de decisão
 Em seguida gere um arquivo texto, ou uma saída no console com as regras da árovre de decisão em um formato textual de regras definido abaixo.
 
 Formato da regra: 
