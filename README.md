@@ -2,6 +2,7 @@
 
 Gerar regras a partir dos dados de forma automática pode ser um suporte para a criação da base de regras nos sistemas especialista. Para isso vamos construir um código para converter uma árvore de decisão em regras. 
 
+Requisitos:
 Criar um modelo preditivo com o algoritmo árvore de decisão e converter a árvore de decisão em regras textuais do tipo se então.
 
 Utilize a base de dados disponibilizada (dataset.xls) para treinar um modelo preditivo do tipo árvore de decisão.
