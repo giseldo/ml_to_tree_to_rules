@@ -9,4 +9,7 @@ SE VAR OP VAR ENTAO VAR OP VALOR
 Exemplo de regra:
 SE FEBRE > 37 ENTAO DOENÇA = GRIPE
 
-Cada nó folha da árvore pode vir a ser uma regra
+![Arquitetura](https://github.com/giseldo/ml_to_tree_to_rules/blob/main/arquitetura.png)
+
+
+OBS: Cada nó folha da árvore pode vir a ser uma regra
